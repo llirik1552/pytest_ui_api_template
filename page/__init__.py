@@ -1,0 +1,2 @@
+class AuthPage:
+    pass
