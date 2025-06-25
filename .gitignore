@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+allure*
+allure-files
+allure-report
+
 __pycache__/
 *.py[cod]
 *$py.class
